@@ -1,9 +1,9 @@
 # Site settings
-author: Kimberly Simmons
+author: Kimberly Asgill
 title: 
 header-img: img/home-bg.png
-email: kimberlysimmonsr@gmail.com
-copyright_name: Kimberly Simmons
+email: kimberlyasgill@gmail.com
+copyright_name: Kimberly Asgill
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
