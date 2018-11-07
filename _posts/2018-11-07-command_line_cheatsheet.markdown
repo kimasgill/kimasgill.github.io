@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Command Line Cheatsheet"
-date:       2018-11-07 20:13:51 +0000
+date:       2018-11-07 15:13:52 -0500
 permalink:  command_line_cheatsheet
 ---
 
@@ -100,6 +100,14 @@ This command will remove a directory, again be sure you want to remove the direc
 
 <br>
 
+**Clear the Terminal**
+```
+$ clear
+```
+
+This command will clear your terminal screen.
+
+<br>
 
 ---
 
