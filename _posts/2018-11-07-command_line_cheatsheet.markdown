@@ -18,7 +18,6 @@ $ pwd
 
 Pwd stands for **P**rint **W**orking **D**irectory.  It outputs the path of your current directory in your terminal.
 
-<br>
 
 **Change Directory**
 ```
