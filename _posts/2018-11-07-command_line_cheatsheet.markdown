@@ -24,7 +24,7 @@ Pwd stands for **P**rint **W**orking **D**irectory.  It outputs the path of your
 $ cd filename
 ```
 
-Cd stands for **C**hange **D**irectory.  You can change from the directory you’re in to the directory you write after the letters "cd"
+Cd stands for **C**hange **D**irectory.  You can change from the directory you’re in to the directory you write after the letters ```cd```
 
 <br>
 
@@ -54,7 +54,7 @@ You can use multiple ```../``` to go back further!
 $ touch newfilename
 ```
 
-Creates a new file within the current directory with the name you specify after “touch”.
+Creates a new file within the current directory with the name you specify after ```touch```.
 
 <br>
 
@@ -64,7 +64,7 @@ Creates a new file within the current directory with the name you specify after 
 $ mkdir newdirectoryname
 ```
 
-Creates a new folder/directory with the name you specify after “mkdir”.
+Creates a new folder/directory with the name you specify after ```mkdir```.
 
 <br>
 
