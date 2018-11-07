@@ -7,7 +7,8 @@ permalink:  command_line_cheatsheet
 
 Recently, I’ve been getting more comfortable using the command line in my development workflow.  I decided to write down some common commands for easy reference.  
 
-### Commands
+
+## Commands
 ---
 <br>
  **Print Working Directory**
